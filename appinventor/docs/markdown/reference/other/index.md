@@ -5,6 +5,7 @@ layout: documentation
 
 These documents provide additional details on some App Inventor topics.
 
+* [Editing Your App (Copy and Paste)](editing-functions.html)
 * [Using the Activity Starter](activitystarter.html)
 * [Uploading Your Apps to Google Play](appstoplay.html)
 * [Creating a Custom TinyWebDB Service](tinywebdb.html)
@@ -17,6 +18,7 @@ These documents provide additional details on some App Inventor topics.
 * [Using Images with App Inventor](usingImages.html)
 * [Interfacing App Inventor projects to external sensors](https://docs.google.com/document/d/1HuWW8C3Ghz-pO-tWRpod2znM5wD7RfK10b2J37ftf2E/pub)
 * [Building apps with many screens](manyscreens.html)
+* [Working with JSON and Web APIs](json-web-apis.html)
 * [Working with XML and Web Services](xml.html)
 * [Using the Genymotion emulator with App Inventor](genymotion.html)
 * [App Inventor Extensions](extensions.html)
